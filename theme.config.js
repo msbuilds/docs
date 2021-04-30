@@ -1,14 +1,10 @@
 export default {
   repository: 'https://github.com/msbuilds',
-  titleSuffix: ' – MSBuilds',
+  titleSuffix: ' – msbuilds',
+  darkMode: false,
   logo: (
     <>
-      <img src="/Logo_darkfill.svg" alt="msbuilds logo" class="logo mr-2" /> MSBuilds
-      <style global jsx>{`
-          .logo {
-            width: 30px;
-          }
-      `}</style>
+      <img src="/logo_darkfill_small.svg" alt="msbuilds logo" class="mr-2" /> msbuilds
     </>
   ),
   head: (

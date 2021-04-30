@@ -1,7 +1,5 @@
-# Nextra
+# About msbuilds
 
-**Nextra** is a [Next.js](https://nextjs.org) based static site generator. 0 lines of code needed.  
+**msbuilds** is a personal project intended to collect useful developer resources and documentation. Much of the content will be published on an as-needed basis.
 
-It supports Markdown with React components ([MDX](/mdx)), automatically generated [sidebar and anchor links](/docs/anchors), file-system based routing, built-in syntax highlighting, i18n and more.
-
-![](/demo.png)
+![msbuilds.io logo](/logo_darkfill.svg)
