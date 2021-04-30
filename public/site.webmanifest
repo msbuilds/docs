@@ -1,6 +1,6 @@
 {
-    "name": "MSBuilds",
-    "short_name": "MSBuilds",
+    "name": "msbuilds",
+    "short_name": "msbuilds",
     "icons": [
         {
             "src": "/android-chrome-192x192.png",

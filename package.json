@@ -1,14 +1,14 @@
 {
-  "name": "nextra",
+  "name": "msbuilds",
   "version": "1.0.0",
-  "description": "",
+  "description": "Building together",
   "main": "index.js",
   "scripts": {
     "dev": "next",
     "start": "next start",
     "build": "next build"
   },
-  "author": "Shu Ding",
+  "author": "Michael Salvador",
   "license": "MIT",
   "dependencies": {
     "next": "^10.0.8-canary.9",

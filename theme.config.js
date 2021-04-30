@@ -1,9 +1,14 @@
 export default {
-  repository: 'https://github.com/msbuilds/docs',
+  repository: 'https://github.com/msbuilds',
   titleSuffix: ' – MSBuilds',
   logo: (
     <>
-      <span className="mr-2 font-extrabold hidden md:inline">MSBuilds</span>
+      <img src="/Logo_darkfill.svg" alt="msbuilds logo" class="logo mr-2" /> MSBuilds
+      <style global jsx>{`
+          .logo {
+            width: 30px;
+          }
+      `}</style>
     </>
   ),
   head: (
